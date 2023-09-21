@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Josefin+Slab:ital@1&family=Permanent+Marker&family=Press+Start+2P&family=Suez+One&display=swap');
+@import url('personal-data.css');
+@import url('list.css');
+
+body {
+    font-family: "Inclusive Sans";
+    font-size: 62.5%;
+    background-image: url("../Imagens/transferir.gif");
+    background-size: contain;
+    background-repeat: repeat-y;
+
+}
+

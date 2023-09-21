@@ -1,0 +1,18 @@
+.personal-data {
+    background-image: url("../Imagens/dark-souls-dark-souls-iii-eclipse-wallpaper-preview.jpg");
+    background-size: contain;
+    background-repeat: repeat-y;
+    
+}
+
+.personal-data h1 {
+    font-size: 2rem;
+    color: rgba(221, 11, 11, 0.808);
+    border-width: 10px;
+    border-style: groove;
+    border-color: rgb(0, 0, 0);
+    background-color: rgba(230, 178, 7, 0.932);
+    
+
+    /*border: 10px solid rgba(230, 178, 7, 0.932)*/
+}
